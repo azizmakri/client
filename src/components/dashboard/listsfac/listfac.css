@@ -1,0 +1,12 @@
+.btnM{
+    background-color: #31DB1C;
+    border-radius:28px;
+    border:1px solid #31DB1C;
+    font-size:13px;
+}
+.btnS{
+    background-color: #FF0000;
+    border-radius:28px;
+    border:1px solid #FF0000;
+    font-size:13px;
+}

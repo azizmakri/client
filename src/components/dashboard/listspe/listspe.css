@@ -1,0 +1,13 @@
+.list{
+    display: flex;
+    justify-content: center;
+    /* min-width: 100vh; */
+    grid-area: content;
+    margin:10px 0;
+}
+.list div{
+    width: 90%;
+}
+.list div table thead tr th,.list div table tbody tr th{
+    text-align: left !important;
+}
